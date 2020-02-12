@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Unit1" key="{17702943-4DB3-4F98-88CA-EE356E5A0104}" path="Unit1.js" />
+		<child name="WinForObj" key="{DBEAE5CC-B5EE-4B38-9F58-10AA363437E7}" path="WinForObj.js" />
+		<child name="ecran" key="{E4004A4E-625D-4B5B-BADC-CA01481C643C}" path="ecran.js" />
+		<child name="champ" key="{07776C61-AB70-48A4-A722-AF5B8554F25A}" path="champ.js" />
+		<child name="component" key="{085A5289-E962-462B-836F-AAC37B7CE176}" path="component.js" />
+		<child name="label" key="{F6F7DE29-1E23-4C92-A994-A105D7F76F8F}" path="label.js" />
+		<child name="combobox" key="{4F2ABA75-264A-4C8D-BE4E-73F85DE87F40}" path="combobox.js" />
+		<child name="bouton" key="{E0A71A14-573E-45B2-8EB3-C373CAA60D5C}" path="bouton.js" />
+	</children>
+</Root>
